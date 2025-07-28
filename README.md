@@ -3,7 +3,7 @@
 </p>
 
 <h1> Active Directory Configuration in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of Active Directory within Azure Virtual Machines.
+This tutorial outlines the configuration of Active Directory within Azure Virtual Machines.
 
 <h2>Environments and Technologies Used</h2>
 
